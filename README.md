@@ -1,4 +1,4 @@
-# README
+Yo whats good im a mediocre coder and i make lua scripts.
 
 ![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novattz&show_icons=true&count_private=true&theme=transparent)
 
