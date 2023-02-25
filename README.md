@@ -3,6 +3,12 @@
 </div>  
 <h1 align="center">Hi 👋, I'm Nova</h1>
 <h3 align="center">A passionate developer and video editor.</h3>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Novattz&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views">
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **Zonin**
 
@@ -15,22 +21,33 @@
 <a href="https://discord.gg/ZUJCnc5d84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZUJCnc5d84" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.premiere.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href=https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt"lua" width=40" height="40" </a> </p>
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="42" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" width="42" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" width="42" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" width="42" alt="premierepro logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="42" alt="aftereffects logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="30" width="42" alt="xd logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="30" width="42" alt="illustrator logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novattz&show_icons=true&locale=en" alt="novattz" /></p>
+<h1 align="center">📊 GitHub Stats:</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Novattz&theme=dark&hide_border=true&show_icons=true&count_private=false&include_all_commits=false" alt="GitHub Stats" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Novattz&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novattz&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="400">
+</p>
 
-![Nova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novattz&show_icons=true&count_private=true&theme=transparent)
+<h1 align="center">✍️ Qoute of the day</h1>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novattz&show_icons=true&locale=en" alt="novattz" /></p>
 
 ###
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mevzjkw72srzu6jph3zr6e45s4&width=600)
-<div align="center">
-  <a href="https://open.spotify.com/user/31mevzjkw72srzu6jph3zr6e45s4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mevzjkw72srzu6jph3zr6e45s4&width=400" alt="Spotify Recently Played">
+</p>
 
 ###
