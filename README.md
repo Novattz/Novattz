@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/ZUJCnc5d84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZUJCnc5d84" height="30" width="40" /></a>
+<a href="https://discord.gg/ZUJCnc5d84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZUJCnc5d84" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +26,7 @@
 
 ###
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mevzjkw72srzu6jph3zr6e45s4&width=600)
 <div align="center">
   <a href="https://open.spotify.com/user/31mevzjkw72srzu6jph3zr6e45s4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
