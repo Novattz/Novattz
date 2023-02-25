@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novattz&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="400">
 </p>
 
-<h1 align="center">✍️ Qoute of the day</h1>
+<h1 align="center">✍️ Quote of the day</h1>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"> 
 </p>
