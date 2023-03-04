@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Aether**
+- 🔭 I’m currently working on **Aether [CS:GO Script]**
 
 - 🌱 I’m currently learning **C++ and Lua**
 
