@@ -34,7 +34,7 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Novattz&theme=dark&hide_border=true&show_icons=true&count_private=false&include_all_commits=false" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Novattz&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Novattz&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novattz&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="400">
 </p>
