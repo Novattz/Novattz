@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Zonin**
+- 🔭 I’m currently working on **Aether**
 
 - 🌱 I’m currently learning **C++ and Lua**
 
