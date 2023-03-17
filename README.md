@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer and video editor.</h3>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-   <img src="https://visitcount.itsvg.in/api?id=Novattz&label=Profile%20Views&color=12&icon=5&pretty=false" />
+   <img src="https://visitcount.itsvg.in/api?id=Novattz&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views">
   </a>
 </p>
 
