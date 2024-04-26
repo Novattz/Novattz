@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Aether [CS:GO Script]**
 
-- 🌱 I’m currently learning **C++ and Lua**
+- 🌱 I’m currently learning **C++, Python and Lua**
 
 - 📫 How to reach me **Nova#2194**
 
