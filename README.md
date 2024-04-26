@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Aether [CS:GO Script]**
+- 🔭 I’m currently working on **Linux Utilities**
 
 - 🌱 I’m currently learning **C++, Python and Lua**
 
