@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **C++, Python and Lua**
 
-- 📫 How to reach me **Nova#2194**
+- 📫 How to reach me **DC: Tickbase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/ZUJCnc5d84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZUJCnc5d84" height="30" width="40" /></a>
+<a href="https://discord.gg/Eez8hU3dPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZUJCnc5d84" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
