@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Nova</h1>
-<h3 align="center">A passionate developer and video editor.</h3>
+<h3 align="center">A passionate developer.</h3>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
    <img src="https://visitcount.itsvg.in/api?id=Novattz&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views">
