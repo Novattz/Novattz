@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="42" alt="aftereffects logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="30" width="42" alt="xd logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="30" width="42" alt="illustrator logo"  />
+  <img src="https://devicon-website.vercel.app/api/python/original.svg"height="30" width="42" alt="Python" />
 </div>
 
 <h1 align="center">📊 GitHub Stats:</h1>
