@@ -43,13 +43,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"> 
 </p>
-
-
-###
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mevzjkw72srzu6jph3zr6e45s4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mevzjkw72srzu6jph3zr6e45s4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=64c6d3" alt="Spotify Profile">
-  </a>
-</p>
-
-###
