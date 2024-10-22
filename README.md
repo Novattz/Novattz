@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
-<h1 align="center">Hi 👋, I'm Nova</h1>
+<h1 align="center">Hi 👋, I'm Tickbase</h1>
 <h3 align="center">A passionate developer.</h3>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
