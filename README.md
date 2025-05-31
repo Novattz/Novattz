@@ -1,45 +1,81 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
-</div>  
 <h1 align="center">Hi 👋, I'm Tickbase</h1>
-<h3 align="center">A passionate developer.</h3>
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-   <img src="https://visitcount.itsvg.in/api?id=Novattz&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views">
-  </a>
-</p>
 
-- 🔭 I’m currently working on **Linux Utilities**
-
-- 🌱 I’m currently learning **C++, Python and Lua**
-
-- 📫 How to reach me **DC: Tickbase**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Eez8hU3dPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZUJCnc5d84" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" width="42" alt="lua logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" width="42" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" width="42" alt="premierepro logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" width="42" alt="aftereffects logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="30" width="42" alt="xd logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="30" width="42" alt="illustrator logo"  />
-  <img src="https://devicon-website.vercel.app/api/python/original.svg"height="30" width="42" alt="Python" />
+
+[![Discord](https://img.shields.io/badge/Discord-Tickbase-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Novattz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Novattz)
+
 </div>
 
-<h1 align="center">📊 GitHub Stats:</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Novattz&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Novattz&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novattz&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="400">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Novattz&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Novattz?style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Novattz?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</div>
 
-<h1 align="center">✍️ Quote of the day</h1>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"> 
-</p>
+```rust
+struct Developer {
+    name: String,
+    location: String,
+    current_focus: Vec<String>,
+    learning: Vec<String>,
+}
+
+let tickbase = Developer {
+    name: "Tickbase".to_string(),
+    location: "Earth 🌍".to_string(),
+    current_focus: vec![
+        "System Programming".to_string(),
+        "Open Source".to_string()
+    ],
+    learning: vec![
+        "Rust 🦀".to_string(),
+    ],
+};
+```
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Novattz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novattz&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Novattz&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Novattz&theme=xcode&hide_border=true&bg_color=151515&area=true" />
+</div>
+
+## 🛠️ Tech Arsenal
+
+### 💻 Programming Languages
+
+<div align="center">
+  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Novattz/creamlinux-installer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Novattz&repo=creamlinux-installer&theme=dark&hide_border=true" />
+  </a>
+</div>
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+---
